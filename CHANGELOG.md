@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Added
 - Basics: classes and enumconstants. 
 - CHANGELOG
+- Hall of Fame: equalarrays.
 
 ### Changed
 - Added some more content to the README.

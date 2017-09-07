@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "Things I study. ",
+  "main": "index.js",
+  "repository": "git@github.com:ddanielbee/js-musings.git",
+  "author": "Daniel Bolivar <daniel.bolivar@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^21.0.1"
+  }
+}
