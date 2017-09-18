@@ -38,7 +38,7 @@ const clockIn = (gps, https) =>
       }
     });
 
-describe.only('The clock-in Module', () => {
+describe('The clock-in Module', () => {
   test('requests the GPS values', () => {
     expect.assertions(1);
     const expected = 'Success!';
