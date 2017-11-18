@@ -53,7 +53,7 @@ describe.skip('The Left type', () => {
   })
 })
 
-describe('fromNullable', () => {
+describe.skip('fromNullable', () => {
   test('should return a Right when argument is not null, undefined or NaN', () => {
     const expected = Right(1).toString()
     const actual = fromNullable(1).toString()
@@ -71,7 +71,7 @@ describe('fromNullable', () => {
   })
 })
 
-describe('The Either type', () => {
+describe.skip('The Either type', () => {
   test('Implement an of function', () => {
     const notExpected = undefined
     const actual = Either.of
